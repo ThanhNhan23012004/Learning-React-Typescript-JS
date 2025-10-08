@@ -1,7 +1,9 @@
+import Test001 from "./test/001";
+
 function App() {
   return (
     <>
-      <p>App</p>
+      <Test001 />
     </>
   )
 }
